@@ -25,7 +25,7 @@
 ### Предусловия
 
 1. Требуется изучить пречень используемых инструментов, описаных в [плане автоматизации тестирования](https://github.com/ller4ik/diploma-qa/blob/master/reports/Plan.md). Обеспечить их дальнейшее использование в проекте; 
-2. Клонировать [репозиторий](https://github.com/ller4ik/diploma-qa) командой;
+2. Клонировать [репозиторий](https://github.com/ller4ik/diploma-qa/tree/master/fmh-android) командой;
 > git clone
 3. Открыть проект fmh-android в Android Studio;
 
