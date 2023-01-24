@@ -6,6 +6,7 @@
 - В процессе автоматизированного UI тестирования было проверено 95 тест-кейсов. Из них 93.68% - успешных тестов и 6.32% неуспешных. Issue на неуспешные тест-кейсы заведены.
 
 [Allure Report](https://github.com/ller4ik/diploma-qa/blob/master/allure-report.rar)
+![](https://github.com/ller4ik/diploma-qa/blob/master/reports/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG?raw=true)
 
 ## Общие рекомендации:
 - Настроить корректное отображение элементов, кнопок и полей при включенной темной теме;
